@@ -1,0 +1,8 @@
+ "address":"ru.nlist.xyz",
+        "alterId":0,
+        "host":"",
+        "id":"0e7230da-f468-4704-b4d3-ee9fd3e807fe",
+        "network":"ws",
+        "path":"/service",
+        "port":443,
+        "protocol":"vmess",
